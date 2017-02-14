@@ -20,7 +20,7 @@ In this lesson we'll talk about:
 
 ***
 
-Whether or not we consciously realize it, colors carry meaning. What this exact meaning is subjective, but it is often heavily influenced by the culture someone grew up in. Therefore, it is important to be aware that colors can have very different connotations and associations based on different cultural traditions, countries, and religious beliefs. Take white, for example. White often symbolizes purity, fulfillment, and brightness. However, in some cultures it is more closely associated with death, is often used as a color of mourning, and is frequently used in funerals. One color, two vastly different meanings.
+Whether or not we consciously realize it, colors carry meaning. The exact meaning can be subjective but can be swayed by other design choices and context, but it is often heavily influenced by the culture someone grew up in. Therefore, it is important to be aware that colors can have very different connotations and associations based on different cultural traditions, countries, and religious beliefs. Take white, for example. White often symbolizes purity, fulfillment, and brightness. However, in some cultures it is more closely associated with death, is often used as a color of mourning, and is frequently used in funerals. One color, two vastly different meanings.
 
 Let's talk about some common meanings tied to colors.
 
