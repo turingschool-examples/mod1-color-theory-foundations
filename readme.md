@@ -15,7 +15,7 @@ In this lesson we'll talk about:
 
 ***
 
-> #### *"Color is a powerful form of communication. We are so attracted to color and so repelled by it that even if the coolest design were presented to us, if we didn't like the color, we wouldn't like it at all."* - Joanne Chang, from Hack Design's "Building Color Confidence"
+> #### *"Color is a powerful form of communication. We are so attracted to color and so repelled by it that even if the coolest design were presented to us, if we didn't like the color, we wouldn't like it at all."* - Joanne Chang, from Hack Design's ["Building Color Confidence"](https://hackdesign.org/lessons/17)
 
 ***
 
@@ -67,23 +67,6 @@ Purple is a combination of red and blue, and depending on the ratio of the mix c
 
 Neutral colors are great to use as a backdrop for one or two carefully chosen accent colors. When used alone, neutral tones can give a sense of sophistication. Neutral colors include black, white, beige, gray, and ivory.
 
-<!-- Red: Passion, Love, Anger
-Orange: Energy, Happiness, Vitality
-Yellow: Happiness, Hope, Deceit
-Green: New Beginnings, Abundance, Nature
-Blue: Calm, Responsible, Sadness
-Purple: Creativity, Royalty, Wealth
-Black: Mystery, Elegance, Evil
-Gray: Moody, Conservative, Formality
-White: Purity, Cleanliness, Virtue
-Brown: Nature, Wholesomeness, Dependability
-Tan or Beige: Conservative, Piety, Dull
-Cream or Ivory: Calm, Elegant, Purity -->
-
-
-<!-- ![image fpo](images/type05.png) -->
-<!-- [Raleway](https://fonts.google.com/specimen/Raleway) -->
-
 ### Color Combinations
 
 Now that we are familiar with what the emotional meanings associated with color groups are, we can talk about how to combine them effectively.
@@ -96,7 +79,7 @@ Now that we are familiar with what the emotional meanings associated with color 
 
 That means it's time to talk about the color wheel!
 
-##### Primary Colors
+#### Primary Colors
 
 ![primary colors](images/primary.jpg)
 
@@ -104,7 +87,7 @@ That means it's time to talk about the color wheel!
 
 Primary colors are the only colors that cannot be created by mixing other colors together. They are red, blue, and yellow. All other colors can be created by mixing these three colors.
 
-###### Secondary Colors
+#### Secondary Colors
 
 ![secondary colors](images/secondary.jpg)
 
@@ -112,7 +95,7 @@ Primary colors are the only colors that cannot be created by mixing other colors
 
 Secondary colors are created by blending two primary colors. These colors are orange, green, and purple. In the visual representation of our color wheel, these are the colors exactly in between out primary colors.
 
-###### Tertiary Colors
+#### Tertiary Colors
 
 ![tertiary colors](images/tertiary.jpg)
 
@@ -120,7 +103,7 @@ Secondary colors are created by blending two primary colors. These colors are or
 
 Tertiary colors are made by mixing a primary color and a secondary color. In the color wheel, these fall between a primary and secondary color.
 
-###### Complimentary Colors
+#### Complimentary Colors
 
 ![complimentary colors](images/complimentary2.jpg)
 
@@ -128,7 +111,7 @@ Tertiary colors are made by mixing a primary color and a secondary color. In the
 
 These are two colors that sit directly across from each other on the color wheel. They compliment each other and often have the most contrast, but that doesn't always mean they make for the nicest pairings. A way to get near the same level of contrast and a nicer pairing is to use Split Complimentary Colors.
 
-##### Split Complimentary Colors
+#### Split Complimentary Colors
 
 ![split complimentary colors](images/split_complimentary.jpg)
 
@@ -137,10 +120,34 @@ These are two colors that sit directly across from each other on the color wheel
 Split Complimentary Colors start with one color and then instead of going straight across the color wheel to the complimentary color, go to either the left of right a couple of colors. This softens the contrast and often gives a nicer, more visually appealing pairing.
 
 
-##### Analogous Colors
+#### Analogous Colors
 
 ![analogous colors](images/analogous.jpg)
 
 ###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
 
 Analogous colors are group of colors that are close to each other on the color wheel. They have enough contrast to be clearly distinguishable from one another, but because they are very similar they form a harmonious group.
+
+### Color Properties and Terms
+
+Color properties are how we describe and define colors. They allows us to refine a specific color.
+
+#### Hue
+
+Hue defines a "pure color" (in many situations, it can even be used as a synonym for "color"), which is typically a primary or secondary color on the color wheel. You can think of hue as describing the colors you learned to connect with words as a child.
+
+#### Tone
+
+Tones are made my mixing pure colors (aka hues!) with a neutral or grayscale color. A tone will be softer than the original color. Tints and shades are considered tones.
+
+![tints and shades](images/tints_and_shades.jpg)
+
+###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
+
+#### Tint
+
+A tint is a pure color that has had white added to it. It will be lighter that the original color.
+
+#### Shade
+
+A shade is a pure color that has had black added to it. It will be darker than the original color.
