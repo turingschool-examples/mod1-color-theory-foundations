@@ -8,7 +8,7 @@ tags: color theory, design
 
 In this lesson we'll talk about:
 
-* the emotions and meanings associated with different colors
+* the meanings associated with different colors
 * different type of color relationships
 * color properties and terms
 
