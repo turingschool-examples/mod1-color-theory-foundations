@@ -105,3 +105,33 @@ That means it's time to talk about the color wheel!
 Primary colors are the only colors that cannot be created by mixing other colors together. They are red, blue, and yellow. All other colors can be created by mixing these three colors.
 
 ###### Secondary Colors
+
+![secondary colors](images/secondary.jpg)
+
+###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
+
+Secondary colors are created by blending two primary colors. These colors are orange, green, and purple. In the visual representation of our color wheel, these are the colors exactly in between out primary colors.
+
+###### Tertiary Colors
+
+![tertiary colors](images/tertiary.jpg)
+
+###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
+
+Tertiary colors are made by mixing a primary color and a secondary color. In the color wheel, these fall between a primary and secondary color.
+
+###### Complimentary Colors
+
+![complimentary colors](images/complimentary.jpg)
+
+###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
+
+These are two colors that sit directly across from each other on the color wheel. They compliment each other and often have the most contrast, but that doesn't always mean they make for the nicest pairings. A way to get near the same level of contrast and a nicer pairing is to use Split Complimentary Colors.
+
+##### Split Complimentary Colors
+
+![split complimentary colors](images/split_complimentary.jpg)
+
+###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
+
+Split Complimentary Colors start with one color and then instead of going straight across the color wheel to the complimentary color, go to either the left of right a couple of colors. This softens the contrast and often gives a nicer, more visually appealing pairing.
