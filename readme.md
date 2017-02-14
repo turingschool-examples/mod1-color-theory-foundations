@@ -135,3 +135,12 @@ These are two colors that sit directly across from each other on the color wheel
 ###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
 
 Split Complimentary Colors start with one color and then instead of going straight across the color wheel to the complimentary color, go to either the left of right a couple of colors. This softens the contrast and often gives a nicer, more visually appealing pairing.
+
+
+##### Analogous Colors
+
+![analogous colors](images/analogous.jpg)
+
+###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
+
+Analogous colors are group of colors that are close to each other on the color wheel. They have enough contrast to be clearly distinguishable from one another, but because they are very similar they form a harmonious group.
