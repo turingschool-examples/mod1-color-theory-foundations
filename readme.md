@@ -171,8 +171,9 @@ Time to play around with color. See how much a color can change based on the col
 
 ## Homework Reading
 
-* [Color Theory For Designers: Creating Your Own Color Palettes](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
 * [Accessibility: Improving The UX For Color-Blind Users](https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/)
+* [Color Theory For Designers: Creating Your Own Color Palettes](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
+* [The Underestimated Power Of Color In Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 ## Resources
 
