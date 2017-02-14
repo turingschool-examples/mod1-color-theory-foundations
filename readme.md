@@ -122,7 +122,7 @@ Tertiary colors are made by mixing a primary color and a secondary color. In the
 
 ###### Complimentary Colors
 
-![complimentary colors](images/complimentary.jpg)
+![complimentary colors](images/complimentary2.jpg)
 
 ###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
 
