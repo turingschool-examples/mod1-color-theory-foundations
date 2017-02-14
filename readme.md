@@ -8,11 +8,8 @@ tags: color theory, design
 
 In this lesson we'll talk about:
 
-* the different between typeface and font
-* the different between serif and sans serif
-* font size and letter spacing
-* the structure of letterforms
-* a set of strategies to apply when looking for font pairings
+* the emotions and meanings associated with different colors
+* different color combinations
 
 ### The Power of Color
 
