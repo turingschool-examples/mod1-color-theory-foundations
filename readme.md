@@ -163,12 +163,12 @@ A shade is a pure color that has had black added to it. It will be darker than t
 
 Saturation defines the range of purity of a color. It goes from 100% pure color to 0% pure color (which becomes grey). A technique to desaturate a color to achieve a tonal grey used by painters is to blend two complimentary colors together. When blended in equal amounts, complimentary colors become a mid-grey. This allows you to find a neutral grey that still visually compliments your accent color (i.e. it is a cool or warm grey, rather than being a strict white-to-black neutral grey).
 
-### Your Turn
+<!-- ### Your Turn
 
 Time to play around with color. See how much a color can change based on the color it is laid over. Experiment! Try out complimentary colors, try different tints and shades. See what you get!
 
 * [Here's a link to a Codepen](http://codepen.io/LouisaBarrett/pen/MJLRNG?editors=1100) that's ready for you to try out some colors.
-* [And here is a link to a great site](http://htmlcolorcodes.com/color-picker/) to show you all the range you can get from one color.
+* [And here is a link to a great site](http://htmlcolorcodes.com/color-picker/) to show you all the range you can get from one color. -->
 
 
 ## Homework Reading
