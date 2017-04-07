@@ -68,17 +68,9 @@ Purple is a combination of red and blue, and depending on the ratio of the mix c
 
 Neutral colors are great to use as a backdrop for one or two carefully chosen accent colors. When used alone, neutral tones can give a sense of sophistication. Neutral colors include black, white, beige, gray, and ivory.
 
-### Color Combinations
+### Color Types
 
-Now that we are familiar with what the emotional meanings associated with color groups are, we can talk about how to combine them effectively.
-
-***
-
-> #### *"Color Theory is, at its core, about developing aesthetically pleasing color relationships"* - Color Design Workbook
-
-***
-
-That means it's time to talk about the color wheel!
+Let's talk about the color wheel!
 
 #### Primary Colors
 
@@ -103,6 +95,16 @@ Secondary colors are created by blending two primary colors. These colors are or
 ###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
 
 Tertiary colors are made by mixing a primary color and a secondary color. In the color wheel, these fall between a primary and secondary color.
+
+### Color Combinations
+
+Now that we know how to describe colors, we can dig into tried and true methods of finding successful color pairings.
+
+***
+
+> #### *"Color Theory is, at its core, about developing aesthetically pleasing color relationships"* - Color Design Workbook
+
+***
 
 #### Complimentary Colors
 
