@@ -68,6 +68,8 @@ Purple is a combination of red and blue, and depending on the ratio of the mix c
 
 Neutral colors are great to use as a backdrop for one or two carefully chosen accent colors. When used alone, neutral tones can give a sense of sophistication. Neutral colors include black, white, beige, gray, and ivory.
 
+![primary colors](images/Color_Emotion_Guide.png)
+
 ###### *Image Credit: The Logo Company [Color Logo Design](https://thelogocompany.net/blog/infographics/psychology-color-logo-design/)*
 
 ### Color Types
