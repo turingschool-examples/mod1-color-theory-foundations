@@ -142,6 +142,15 @@ Split Complimentary Colors start with one color and then instead of going straig
 
 Analogous colors are group of colors that are close to each other on the color wheel. They have enough contrast to be clearly distinguishable from one another, but because they are very similar they form a harmonious group.
 
+### Your Turn
+
+Color Interaction exercise: Color on color affects how they are seen. The objective is to make three colors appear as four through color interaction.
+
+Update the Code Pen below to use color rather than black and white to achieve this:
+
+<p data-height="265" data-theme-id="light" data-slug-hash="jwVJVN" data-default-tab="css,result" data-user="LouisaBarrett" data-embed-version="2" data-pen-title="Dinojs: Color Interaction" class="codepen">See the Pen <a href="https://codepen.io/LouisaBarrett/pen/jwVJVN/">Dinojs: Color Interaction</a> by Louisa Barrett (<a href="https://codepen.io/LouisaBarrett">@LouisaBarrett</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ### Color Properties and Terms
 
 Color properties are how we describe and define colors. They allows us to refine a specific color.
