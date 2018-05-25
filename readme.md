@@ -148,8 +148,7 @@ Color Interaction exercise: Color on color affects how they are seen. The object
 
 Update the Code Pen below to use color rather than black and white to achieve this:
 
-<p data-height="265" data-theme-id="light" data-slug-hash="jwVJVN" data-default-tab="css,result" data-user="LouisaBarrett" data-embed-version="2" data-pen-title="Dinojs: Color Interaction" class="codepen">See the Pen <a href="https://codepen.io/LouisaBarrett/pen/jwVJVN/">Dinojs: Color Interaction</a> by Louisa Barrett (<a href="https://codepen.io/LouisaBarrett">@LouisaBarrett</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+[Color Interaction](https://codepen.io/LouisaBarrett/pen/jwVJVN?editors=0100)
 
 ### Color Properties and Terms
 
