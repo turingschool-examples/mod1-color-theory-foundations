@@ -110,6 +110,13 @@ Now that we know how to describe colors, we can dig into tried and true methods 
 
 ***
 
+#### Monochromatic Colors
+![monochromatic colors](images/monochrome.svg)
+
+###### *Image Credit: Wikipedia [Monochromatic Color](https://en.wikipedia.org/wiki/Monochromatic_color)*
+
+This is one color that is extended using tints, shades and tones.
+
 #### Complimentary Colors
 
 ![complimentary colors](images/complimentary2.jpg)
